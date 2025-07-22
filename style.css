@@ -162,7 +162,6 @@ p {
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-    background-color: var(--button-bg);
     border-radius: 50%;
     padding: 10px;
 }
