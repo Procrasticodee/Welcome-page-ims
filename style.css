@@ -9,7 +9,7 @@
     --bg-end: #78869b;
     --text-color: #333;
     --subtext-color: #4a5568;
-    --box-bg: #e6f3f3; /* Changed to soft cyan for better blending in light mode */
+    --box-bg: #e6f3f3; 
     --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08); /* Softer shadow */
     --box-shadow-hover: 0 8px 16px rgba(0, 0, 0, 0.15); /* Softer hover shadow */
     --button-bg: #2563eb;
@@ -90,7 +90,7 @@ p {
 }
 
 .carousel-item {
-    transition: transform 0.6s ease-in-out; /* Matches Bootstrap's default slide transition */
+    transition: transform 0.6s ease-in-out; 
 }
 
 .carousel-box {
